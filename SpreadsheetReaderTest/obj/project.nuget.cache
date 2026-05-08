@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t+vBbtom97A=",
+  "dgSpecHash": "cCPf/eOb5l0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jonathan\\source\\repos\\SPA Interview Submission\\SpreadsheetReaderTest\\SpreadsheetReaderTest.csproj",
+  "projectFilePath": "C:\\Users\\Jonathan\\GitHub\\SPA-Interview-Submission\\SpreadsheetReaderTest\\SpreadsheetReaderTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jonathan\\.nuget\\packages\\closedxml\\0.105.0\\closedxml.0.105.0.nupkg.sha512",
     "C:\\Users\\Jonathan\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
