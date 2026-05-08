@@ -1,4 +1,4 @@
-#Submission for the first-round interview of the Software Engineer position with Sponsored Programs Administration.
+# Submission for the first-round interview of the Software Engineer position with Sponsored Programs Administration.
 
 Assumptions made regarding ambiguous requirements:
 1. All spreadsheets have at least one "Period" column and not just a "Total" column.
